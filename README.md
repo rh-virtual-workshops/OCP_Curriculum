@@ -9,7 +9,7 @@ October 2019
 
 In this repositiory you find the content of the curriculum and usefull links to make you familar with OpenShift
 
-# you cand find your playground here: http://console-openshift-console.apps.cluster-milano-b629.milano-b629.example.opentlc.com/
+# you cand find your playground here: http://console-openshift-console.apps.cluster-milan-2d26.milan-2d26.example.opentlc.com/
 
 ## Location
 
